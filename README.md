@@ -1,6 +1,7 @@
 Sistema com framework Django, desenvolvido juntamente com os professores do curso da Alura
 
-Aprendi a manipular a parte de template, urls, Models e views dos apps e a configurar a parte de settings. 
+Aprendi a manipular o Template, Urls, Models e Views dos apps e a configurar a parte de settings do projeto. Dentro deles e
+do fremework django adquiri o conhecimento necessário para desenvolver um bom sistema django com boas práticas.
 
 Conclui a formação "Django: crie aplicações em Python" contendendo quatro cursos com carga horária total de 39 horas. Sendo elas:
 1º Django: templates e boas práticas
